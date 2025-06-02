@@ -1,3 +1,6 @@
+# 在cmd输入以下指令一键安装依赖库：
+# pip install pandas numpy scipy tqdm
+
 import pandas as pd
 import numpy as np
 from scipy.sparse import coo_matrix
